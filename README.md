@@ -1,4 +1,4 @@
-# Projeto Python IA: Inteligência Artificial e Previsões
+# Projeto de Inteligência Artificial e Previsões
 
 Case: Score de Crédito dos Clientes
 
